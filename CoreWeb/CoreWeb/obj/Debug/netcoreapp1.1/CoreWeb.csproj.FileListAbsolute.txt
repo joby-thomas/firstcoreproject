@@ -1,0 +1,9 @@
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\bin\Debug\netcoreapp1.1\CoreWeb.deps.json
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\bin\Debug\netcoreapp1.1\CoreWeb.runtimeconfig.json
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\bin\Debug\netcoreapp1.1\CoreWeb.runtimeconfig.dev.json
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\bin\Debug\netcoreapp1.1\CoreWeb.dll
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\bin\Debug\netcoreapp1.1\CoreWeb.pdb
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\obj\Debug\netcoreapp1.1\CoreWeb.csprojResolveAssemblyReference.cache
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\obj\Debug\netcoreapp1.1\CoreWeb.AssemblyInfo.cs
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\obj\Debug\netcoreapp1.1\CoreWeb.dll
+C:\Users\jobyt.REDMOND\documents\visual studio 2017\Projects\CoreWeb\CoreWeb\obj\Debug\netcoreapp1.1\CoreWeb.pdb

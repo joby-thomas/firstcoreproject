@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  coreweb:
+    image: coreweb
+    build:
+      context: ./CoreWeb
+      dockerfile: Dockerfile
