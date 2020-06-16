@@ -1,0 +1,16 @@
+apiVersion : apps/v1beta1
+kind: Deployment
+metadata:
+  name: "jobyaks2"
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: "jobyaks2"
+    spec:
+      containers:
+        - name: "jobyaks2"
+          image: "jobysregistry1.azurecr.io/jobyaks2"
+          ports:
+          - containerPort: 80
